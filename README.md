@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ralph Jumao-as</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🔭 I’m currently working on **Project 1**
-
 - 🌱 I’m currently learning **Java, PHP, Tailwind Css**
-
-- 💬 Ask me about **HTML, Css, Javascript**
-
-- 📫 How to reach me **dongzralph@gmail.oom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
